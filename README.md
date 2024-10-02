@@ -5,6 +5,11 @@
 **Description**:
 This repository provides resources, tools, and theoretical foundations for the study of **network science**, an interdisciplinary field that analyzes the structure and dynamics of networks in various domains, such as social, biological, and communication systems. The repository utilizes a Colaboratory Notebook to explore these concepts practically.
 
+<div style="text-align: center;">
+  <img src="https://github.com/AlanAmaro13/Network_Science/blob/main/images_n/networkScience.webp" alt="Foto" width="350" />
+</div>
+
+
 **Key Features**:
 - **Core Concepts**: 
   - **Nodes and Edges**: Represent entities and their connections within networks.
